@@ -16,7 +16,8 @@ You can either **clone this project via GitHub** or **download the ZIP file**.
 1. Clone the repository:
 
     ```bash
-    cd laravel-ajax-registration
+    git clone https://github.com/paopaomanuzon24/ajax-upload.git
+    cd ajax-upload
     ```
 
 2. Install dependencies
