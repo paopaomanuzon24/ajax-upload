@@ -59,5 +59,5 @@ You can either **clone this project via GitHub** or **download the ZIP file**.
 ## 🚀 Features
 
 -   Form
--   Save Form data in Ajax
--   Grid list in datatable in Ajax
+-   Save Upload data in Ajax
+-   show the Image with out page reload
